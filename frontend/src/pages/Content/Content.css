@@ -1,0 +1,35 @@
+.background-content {
+  background-image: url(../../img/image.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  height: 100vh;
+  max-height: 914px;
+  overflow: hidden;
+}
+
+.me {
+  position: relative;
+  border-radius: 40%;
+  border: 8px solid white;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 22rem;
+  width: 22rem;
+  margin-top: 5rem;
+}
+
+.fa-facebook,
+.fa-twitter,
+.fa-whatsapp,
+.fa-linkedin {
+  color: white;
+  font-size: 2rem;
+  margin: 10px;
+}
+
+.button-icon {
+  padding: 100%;
+}

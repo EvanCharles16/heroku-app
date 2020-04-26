@@ -1,0 +1,43 @@
+* {
+  font-family: "Montserrat", sans-serif;
+}
+
+.logo h1 {
+  font-size: "40px";
+}
+
+.nav {
+  font-size: 26px;
+}
+
+a:hover {
+  text-decoration: none !important;
+}
+
+.link {
+  position: relative;
+}
+
+.link:after {
+  content: "";
+  position: absolute;
+  width: 0;
+  height: 3px;
+  display: block;
+  margin-top: 2px;
+  left: 0;
+  background: white;
+  transition: width 0.4s ease;
+}
+
+.link:hover:after {
+  width: 90%;
+  left: 0;
+  background: white;
+}
+
+.link.active:after {
+  width: 90%;
+  left: 0;
+  background: white;
+}

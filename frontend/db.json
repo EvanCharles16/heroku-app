@@ -1,0 +1,71 @@
+{
+  "article": [
+    {
+      "images": [
+        "http://35.240.201.155:3000/public/images/destination/2020-01-30T16:35:02.548Zchenghobatam.JPG"
+      ],
+      "id": "5e3305b62a7d5254aadd3109",
+      "destinationName": "Mesjid Muhammad Cheng Ho",
+      "address": "Tj. Buntung, Kec. Bengkong",
+      "city": "Kota Batam",
+      "province": "Kepulauan Riau",
+      "description": "Masjid ini diprakarsai oleh seorang pengusaha yang bernama Abi, pemilik Golden Pranw. Selain untuk mengenang seorang ulama dari Tiongkok, juga sebagai salah satu ikon wisata di Kepri"
+    },
+    {
+      "images": [
+        "http://35.240.201.155:3000/public/images/destination/2020-01-30T16:38:17.169Zmatakucing.jpg"
+      ],
+      "id": "5e3306792a7d5254aadd310a",
+      "destinationName": "Hutan Wisata Mata Kucing",
+      "address": "Jl. Taman Bukit Golf, Kec Sekupang",
+      "city": "Kota Batam",
+      "province": "Kepulauan Riau",
+      "description": "Berdasarkan cerita, pada zaman dahulu tempat ini adalah sebuah hutan yang hanya bisa dilewati dengan berjalan kaki dan belum dapat sama sekali dilewati oleh kendaraan, saat itu masyarakat yang tinggal di daerah ini pada malam hari sering melihat cahaya-cahaya terang dari dalam hutan yang mengincar dan melihat ke arah mereka, dan konon mata itu adalah mata dari seekor harimau. Namun, masyarakat Batam saat itu sangat menjaga adat yaitu pantang sekali menyebut kata “Harimau”. Dan untuk mengganti kata harimau tersebut, maka disebutlah “Mata Kucing” untuk menghaluskan istilah tersebut."
+    },
+    {
+      "images": [
+        "http://35.240.201.155:3000/public/images/destination/2020-01-30T16:35:02.548Zchenghobatam.JPG"
+      ],
+      "id": "5e3305b62a7d5254aadd3109",
+      "destinationName": "Mesjid Muhammad Cheng Ho",
+      "address": "Tj. Buntung, Kec. Bengkong",
+      "city": "Kota Batam",
+      "province": "Kepulauan Riau",
+      "description": "Masjid ini diprakarsai oleh seorang pengusaha yang bernama Abi, pemilik Golden Pranw. Selain untuk mengenang seorang ulama dari Tiongkok, juga sebagai salah satu ikon wisata di Kepri"
+    },
+
+    {
+      "images": [
+        "http://35.240.201.155:3000/public/images/destination/2020-01-30T16:41:08.476Zjambumarina.jpg"
+      ],
+      "id": "5e3307242a7d5254aadd310b",
+      "destinationName": "Kebun Jambu Marina",
+      "address": "Jl. Raya Marina City, Kec Sekupang",
+      "city": "Kota Batam",
+      "province": "Kepulauan Riau",
+      "description": "Tempat ini dikenal mempunyai sebuah lokasi kebun jambu yang cukup luas. Di sini kita bisa memetiknya langsung dari pohon, jambu bisa langsung dimakan, dijus, atau dibawa pulang."
+    },
+    {
+      "images": [
+        "http://35.240.201.155:3000/public/images/destination/2020-01-30T17:12:38.343Zpantaicafe.jpg"
+      ],
+      "id": "5e330e862a7d5254aadd310c",
+      "destinationName": "Pantai Café",
+      "address": "Komplek Pantai Permata Blok E No. 1-6, Tj. Uma, Kec. Batam Kota.",
+      "city": "Kota Batam",
+      "province": "Kepulauan Riau",
+      "description": "Pantai Café ini merupakan salah satu destinasi wisata alam yang tidak hanya terkenal karena keindahan naturalitas alam, ombak laut, rindang nya pepohonan, hamparan pasir. Pantai nan eksotis serta tempat nya yang bersih namun juga karena Pantai ini menjadi tempat yang khas untuk melakukan dinner romantis bak liburan di Maladewa atau di Honolulu, Hawaii. Keindahan Pantai café yang bernuansa bak liburan eksotis dengan lokasi nya tidak jauh dari pelabuhan singgah yacht mewah dan kapal-kapal barang ini memang sangat pas sebagai tempat tujuan wisata."
+    },
+    {
+      "images": [
+        "http://35.240.201.155:3000/public/images/destination/2020-01-30T17:14:57.442Ztelagabidadari.jpg"
+      ],
+      "id": "5e330f112a7d5254aadd310d",
+      "destinationName": "Telaga Bidadari",
+      "address": "Kabil, Kecamatan Nongsa",
+      "city": "Kota Batam",
+      "province": "Kepulauan Riau",
+      "description": "Lokasi telaga ini berada di tengah hutan lindung pulau Kalajengking ini. Berada di kawasan Muka Kuning. Jalan tanah setapak dan beberapa jembatan kayu bakal kita lalui seperti lintasan outbound. Rasanya kurang jika ke Batam tidak melakukan tracking ke lokasi ini"
+    }
+  ]
+}
